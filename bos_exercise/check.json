@@ -1,0 +1,1 @@
+{"name": "nirmal", "age": 18, "is_student": true, "address": {"street": "123 Main St", "city": "Anytown", "state": "CA", "zip": "12345"}, "married": false, "Children": null, "marks": [90, 80, 70, 60, 50], "Hobby": ["read", "write"], "weight": 70.5}

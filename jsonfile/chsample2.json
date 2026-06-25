@@ -1,0 +1,21 @@
+{
+  "firstName": "Joe",
+  "lastName": "Jackson",
+  "gender": "male",
+  "age": 28,
+  "address": {
+    "streetAddress": "101",
+    "state": "CA",
+    "homeNo": 23
+  },
+  "phoneNumbers": [
+    {
+      "type": "home",
+      "number": "7349282382"
+    },
+    {
+      "owner": "no yet fixed",
+      "age": "don't know"
+    }
+  ]
+}

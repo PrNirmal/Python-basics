@@ -1,0 +1,53 @@
+[
+  {
+    "color": "red",
+    "value": "#f00"
+  },
+  {
+    "color": "green",
+    "value": "#0f0"
+  },
+  {
+    "color": "blue",
+    "value": "#00f"
+  },
+  {
+    "color": "cyan",
+    "value": "#0ff"
+  },
+  {
+    "color": "magenta",
+    "value": "#f0f"
+  },
+  {
+    "color": "yellow",
+    "value": "#ff0"
+  },
+  {
+    "color": "black",
+    "value": "#000"
+  },
+  {
+    "alcol": [
+      "red",
+      "green",
+      "blue",
+      "cyan",
+      "magenta",
+      "yellow",
+      "black"
+    ],
+    "vlcol": [
+      "#f00",
+      "#0f0",
+      "#00f",
+      "#0ff",
+      "#f0f",
+      "#ff0",
+      "#000"
+    ]
+  },
+  {
+    "noofitems": 8
+  }
+]
